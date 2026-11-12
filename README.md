@@ -1,2 +1,4 @@
 # Cohort 2 Group 12 2D Goose Game
-([Formal Requirements .pdf](https://github.com/user-attachments/files/34632430/Formal.Requirements.pdf))
+<a href="Formal.Requirements.pdf" style="display:inline-block; padding:10px 20px; background:#159957; color:white; border-radius:6px; text-decoration:none; font-weight:bold;">
+  📄 View Requirements
+</a>
