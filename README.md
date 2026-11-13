@@ -7,7 +7,7 @@
 </style>
 ## Game and Code
 <div class="btn-stack">
-  <a class="btn" href="YOUR_JAR_LINK" target="_blank" rel="noopener noreferrer">🎮 Download the Game (JAR)</a>
+  <a class="btn" href="https://nahtaan.github.io/game-1.0-all.jar" target="_blank" rel="noopener noreferrer">🎮 Download the Game (JAR)</a>
   <a class="btn" href="https://github.com/nahtaan/ENG1Cohort1Group12.git" target="_blank" rel="noopener noreferrer">💻 Source Code Repository</a>
 </div>
 
