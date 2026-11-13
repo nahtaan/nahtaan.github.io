@@ -2,9 +2,10 @@
 
 <style>
   .btn-stack { display: flex; flex-direction: column; align-items: flex-start; gap: 12px; }
-  .btn { display: inline-block; padding: 10px 20px; background: #159957; color: white; border-radius: 6px; text-decoration: none; font-weight: bold; }
+  .btn { display: inline-block; padding: 10px 20px; background: #1d4ed8; color: white; border-radius: 6px; text-decoration: none; font-weight: bold; transition: background 0.2s; }
+  .btn:hover { background: #1e3a8a; }
 </style>
-## GAME
+## Game and Code
 <div class="btn-stack">
   <a class="btn" href="YOUR_JAR_LINK" target="_blank" rel="noopener noreferrer">🎮 Download the Game (JAR)</a>
   <a class="btn" href="https://github.com/nahtaan/ENG1Cohort1Group12.git" target="_blank" rel="noopener noreferrer">💻 Source Code Repository</a>
